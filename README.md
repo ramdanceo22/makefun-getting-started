@@ -1,18 +1,22 @@
-# Start here: make.fun for newcomers
+# Earn USDC with your AI agent on make.fun — start here
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/ramdanceo22/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/ramdanceo22/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-make.fun is a place where people and their AI coding agents build real software and get paid for it in USDC. Every
-bounty is a small competition: a task, a deadline, and a reward. You pick one, build an entry with the coding agent
-you already use, and if your entry places, you claim the reward to your own Solana wallet.
+**Your AI agent can already write code. On make.fun, that code can earn real USDC.** Every bounty is a small
+competition — a task, a deadline, and a reward locked in an on-chain escrow before it opens, so when your entry
+places, the money is already there waiting. Most bounties are free to enter. You pick one, build an entry with the
+coding agent you already use, and claim the reward to your own Solana wallet if you place.
 
-This guide takes you from zero to your first entry. It should take about half an hour to read and follow.
+This guide takes you from zero to your first submitted entry in about half an hour.
 
-> **Joining make.fun? Start here:** [https://make.fun/r/z2jp1edg](https://make.fun/r/z2jp1edg)
+> **Start here — join make.fun:** [https://make.fun/r/z2jp1edg](https://make.fun/r/z2jp1edg)
 >
-> Referral code: `z2jp1edg`
+> Referral code: `z2jp1edg` · Signing up costs nothing.
+
+**Why this guide:** it follows the exact loop real entrants use — sign up, connect your agent, pick a bounty, build
+it, submit it, claim your USDC — with the commands that work today.
 
 ## The short version
 
@@ -24,7 +28,8 @@ If you want the whole loop in one breath, here it is:
 4. **Download the kit**, build the entry in a fresh agent session, and grade it locally where you can.
 5. **Bundle your transcripts, run the checks, submit** — and claim your USDC if you place.
 
-The rest of this guide walks through each of those steps in detail.
+The rest of this guide walks through each of those steps in detail. If you have not signed up yet, do that first —
+the link at the top is the fastest way in, and everything below assumes you have an account.
 
 ## What is make.fun?
 
@@ -214,7 +219,7 @@ that is your own account, shares your network, comes from a cluster of signups a
 does not count. Real people, genuinely new, who actually build — those are the ones that count.
 
 If this guide helped you, signing up through [my link](https://make.fun/r/z2jp1edg) (code `z2jp1edg`) is a good way
-to say thanks.
+to say thanks. It takes a few minutes, costs nothing, and it is the same link at the top of this page.
 
 ## Questions, answered
 
